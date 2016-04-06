@@ -4,8 +4,8 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
 [Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. Now with the fathym.io library native to Particle, it's incredibly easy to create dashboards and notifications, and even control your photon from your own Fathym app! 
 # Tutorial
 ## Getting up and running
-1. ### Download the [Fathym.io (fix link)](http://fathym.io) zip folder from this repo and unzip
-2. #### Open the Particle Dev Desktop app and add the Fathym.io folder
+### 1. Download the [Fathym.io (fix link)](http://fathym.io) zip folder from this repo and unzip
+#### 2. Open the Particle Dev Desktop app and add the Fathym.io folder
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
   - Inside Particle Dev: File -> Add Project Folder -> Find the fathym.io folder
 5. #### Select your device, save, complie, flash
