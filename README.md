@@ -40,5 +40,15 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
     - Fill out the "Property Name" field with one of the attributes you're sending from your Photon (the attribute name must be an exact, case-sensitive match). Leave this field blank to create a generic graph with dropdown menu of the attributes you're sending so you can switch the attribute on the fly.   
 
 4. **Create a Fathym Notification**
-  -
-
+  - From inside your Particle Photon part, click the config "cog wheel" button
+  - Enter the "Add Ons" part
+  - Enter the "Publish Subscription" part
+  - Again, click the config "cog wheel" button
+  - Enter the "Responses" part
+  - Click the plus "+" button to get to the catalog of addable parts
+  - Select the "Check" part
+  - Name the Check Part and add a "Message Evaluation" 
+    - Ensure that the property name you use is an exact match to one you're sending from your Photon
+  - Save the Check part and then Enter into the Check part you just created
+  - Click the plus "+" button to get to the catalog of addable parts
+  - Add an "Email Response" for email or "Twillio Respoonse" for sms and configure as desired
