@@ -35,6 +35,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
   - Note that the Fathym.io library includes support Photon battery power - enable battery support by uncommenting the code at the bottom of the FathymBuild.h file
 
 3. **Add additional dashboard visualizations for your device in Fathym**
+![Fathym Dashboard](https://36.media.tumblr.com/447b4d8abf0869768b89b0411e377eae/tumblr_o2crfxZXFf1qcz8h1o2_1280.jpg "Fathym Dashboard")
   - From inside your Particle Photon part, click the plus "+" button to get to the catalog of addable parts
   - Try a Historc Value part
     - Fill out the "Property Name" field with one of the attributes you're sending from your Photon (the attribute name must be an exact, case-sensitive match). Leave this field blank to create a generic graph with dropdown menu of the attributes you're sending so you can switch the attribute on the fly.   
