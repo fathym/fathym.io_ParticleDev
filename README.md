@@ -1,7 +1,6 @@
 # fathym.io_ParticleDev
 Download the fathym.io library folder to develop for Fathym on the Particle Photon
-## About
-[![Fathym logo](http://fathym.com/wp-content/uploads/2015/11/Fathym-Logo_Registered_sm-01-e1447723628628.png "Fathym Logo")](http://fathym.com)
+## About [![Fathym logo](http://fathym.com/wp-content/uploads/2015/11/Fathym-Logo_Registered_sm-01-e1447723628628.png "Fathym Logo")](http://fathym.com)
 
 [Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. Now with the fathym.io library native to Particle, it's incredibly easy to create dashboards and notifications, and even control your Photon from your own Fathym app! 
 
@@ -72,6 +71,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
 
 ## Share your project with the Fathym community                 
 ![Community Space](http://community.fathym.com/Catalog/Image/67e28c78-af2e-4e11-9c65-52ba26e6a144?maxwidth=230 "Community Space")
+
 1. From inside your Fathym Home Space, find and enter the "Community Space" (tree icon) 
 2. Inside the Community Space,  click the plus "+" button to get to the catalog of addable parts
 3. Change the selected tab in the upper right from "Create New" to "Add Exisiting
