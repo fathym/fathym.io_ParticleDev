@@ -1,3 +1,4 @@
+[![Fathym logo](http://community.fathym.com/Content/Images/FathymLogoLight.png "Fathym Logo")](http://fathym.com)
 # fathym.io_ParticleDev
 Download the fathym.io library folder to develop for Fathym on the Particle Photon
 ## About
