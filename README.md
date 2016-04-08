@@ -13,7 +13,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
   - Inside Particle Dev: File -> Add Project Folder -> Find the fathym.io folder
   - For more about working with your Photon, start with the tutorials in the [Particle Guide](https://docs.particle.io/guide/getting-started/intro/photon/)
-5. **Select your device, save, compile, flash**
+5. **Select your device, save, compile, flash**                                       
 ![Particle Icons](http://community.fathym.com/Files/Storage/66ef4072-7850-4c20-818d-ca6bd4971619 "Particle Icons")
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 6. **Create a new Photon Part in your Fathym Homespace**
@@ -44,7 +44,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
   - Try an Historic Value part
     - Fill out the "Property Name" field with one of the attributes you're sending from your Photon (the attribute name must be an exact, case-sensitive match). Leave this field blank to create a generic graph with dropdown menu of the attributes you're sending so you can switch the attribute on the fly.   
 4. **Create a Fathym Notification**         
-![Notification Rule](https://40.media.tumblr.com/1a61ec7a1eb745816795d509af0f044f/tumblr_o58dv5IR7S1qcz8h1o6_1280.jpg "Notification Rule")
+![Notification Rule](http://community.fathym.com/Files/Storage/4ed0acc5-6b33-47e5-a8ae-a4bc5484b12a "Notification Rule")
   - From inside your Particle Photon part, click the config "cog wheel" button
   - Enter the "Add Ons" part
   - Enter the "Publish Subscription" part
