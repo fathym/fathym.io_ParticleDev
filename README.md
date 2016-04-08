@@ -29,7 +29,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
 ![ino](https://40.media.tumblr.com/31879b26805e0ddac21e0a97e9fbe36e/tumblr_o58dv5IR7S1qcz8h1o4_1280.jpg "ino")
   - You'll see commented instructions about how and where to add code for your sensors
   - Note that fathym.set("attribute name", value, "units of measurement") formats the JSON to send to Fathym
-2. **Open the Fathym.Build.h file**
+2. **Open the Fathym.Build.h file**         
 ![build.h](https://40.media.tumblr.com/7ec2caa15654a3f089cb182301aefcbd/tumblr_o58dv5IR7S1qcz8h1o5_1280.jpg "build.h")
   - Edit the attributes that are automatically sent along with your payload by setting each item to true or false 
   - Note that the Fathym.io library includes support Photon battery power - enable battery support by uncommenting the code at the bottom of the FathymBuild.h file
@@ -38,7 +38,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
   - From inside your Particle Photon part, click the plus "+" button to get to the catalog of addable parts
   - Try a Historc Value part
     - Fill out the "Property Name" field with one of the attributes you're sending from your Photon (the attribute name must be an exact, case-sensitive match). Leave this field blank to create a generic graph with dropdown menu of the attributes you're sending so you can switch the attribute on the fly.   
-4. **Create a Fathym Notification**
+4. **Create a Fathym Notification**         
 ![Notification Rule](https://40.media.tumblr.com/1a61ec7a1eb745816795d509af0f044f/tumblr_o58dv5IR7S1qcz8h1o6_1280.jpg "Notification Rule")
   - From inside your Particle Photon part, click the config "cog wheel" button
   - Enter the "Add Ons" part
