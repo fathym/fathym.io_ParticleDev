@@ -1,4 +1,4 @@
-[![Fathym logo](http://community.fathym.com/Content/Images/FathymLogoLight.png "Fathym Logo")](http://fathym.com)
+[![Fathym logo](http://fathym.com/wp-content/uploads/2015/11/Fathym-Logo_Registered_sm-01-e1447723628628.png "Fathym Logo")](http://fathym.com)
 # fathym.io_ParticleDev
 Download the fathym.io library folder to develop for Fathym on the Particle Photon
 ## About
@@ -17,10 +17,10 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
 5. **Select your device, save, compile, flash**                                       
     ![Particle Icons](http://community.fathym.com/Files/Storage/18dc2dab-fd6e-4754-89ba-28e6611c1dae "Particle Icons")
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
-6. **Create a new Photon Part in your Fathym Homespace**
+6. **Create a new Photon Part in your Fathym Home Space**
   ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
   - Create an  account at [community.fathym.com](http.//community.fathym.com) if you haven't already
-  - From your homespace, click the plus "+" button to get to the catalog of addable parts
+  - From your Home Space, click the plus "+" button to get to the catalog of addable parts
   - Choose the Particle Photon part
   - Add your Photon deviceID, which you can find on your [Particle Dashboard](https://dashboard.particle.io/user/devices)
 8. **Enter your Photon Part on Fathym and add visualizations**
@@ -58,3 +58,23 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
   - Save the Check part and then Enter into the Check part you just created
   - Click the plus "+" button to get to the catalog of addable parts
   - Add an "Email Response" and configure with your message and desired send frequency
+
+## Collaborating and Setting Permissions
+![Permissions](http://community.fathym.com/Files/Storage/06927353-54ad-4ecc-b29a-99cbc1f837da "Permissions")
+1. From inside your Particle Photon part, click the edit button (pencil icon)
+2. Open the "Permissions" tab
+3. Here you can select which useres have read, write, delete, contributor, moderator, or full control access
+  - Full control allows the user to enter the parts configure settings in addition to everything else
+  - You can only give permission to existing Fathym users
+  - Type "Everyone" to give the entire Fathym userbase a certain permission
+4. Once you've given a user permission to work with your part, you'll need to share the part's url with them directly or place your part in a space that they already have access to, like the Community Space for example.
+
+## Share your project with the Fathym community
+![Community Space](http://community.fathym.com/Catalog/Image/67e28c78-af2e-4e11-9c65-52ba26e6a144?maxwidth=230 "community space")
+1. From inside your Fathym Home Space, find and enter the "Community Space" (tree icon) 
+2. Inside the Community Space,  click the plus "+" button to get to the catalog of addable parts
+3. Change the selected tab in the upper right from "Create New" to "Add Exisiting
+4. Search the "Existing Catalog" for your Particle Photon Device and Add!
+
+
+  
