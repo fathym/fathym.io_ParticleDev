@@ -14,6 +14,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
   - Inside Particle Dev: File -> Add Project Folder -> Find the fathym.io folder
   - For more about working with your Photon, start with the tutorials in the [Particle Guide](https://docs.particle.io/guide/getting-started/intro/photon/)
 5. **Select your device, save, compile, flash**
+![Particle Icons](http://community.fathym.com/Files/Storage/66ef4072-7850-4c20-818d-ca6bd4971619 "Particle Icons")
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 6. **Create a new Photon Part in your Fathym Homespace**
 ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
