@@ -2,14 +2,18 @@
 Download the fathym.io library folder to develop for Fathym on the Particle Photon
 ## About
 [Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. Now with the fathym.io library native to Particle, it's incredibly easy to create dashboards and notifications, and even control your Photon from your own Fathym app! 
+
 # Tutorial
+
 ## Getting up and running
+
 1. **Download the [Fathym.io (fix link)](http://fathym.io) zip folder from this repo and unzip**
 2. **Open the Particle Dev Desktop app and add the Fathym.io folder**
 ![Particle Dev](https://40.media.tumblr.com/85a6b84ac6a20005769c38cf79ea9c55/tumblr_o58dv5IR7S1qcz8h1o1_1280.jpg "Particle Dev")
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
   - Inside Particle Dev: File -> Add Project Folder -> Find the fathym.io folder
-5. **Select your device, save, complie, flash**
+  - For more about working with your Photon, start with the tutorials in the [Particle Guide](https://docs.particle.io/guide/getting-started/intro/photon/)
+5. **Select your device, save, compile, flash**
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 6. **Create a new Photon Part in your Fathym Homespace**
 ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
@@ -36,7 +40,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
 3. **Add additional dashboard visualizations for your device in Fathym**
 ![Fathym Dashboard](https://36.media.tumblr.com/447b4d8abf0869768b89b0411e377eae/tumblr_o2crfxZXFf1qcz8h1o2_1280.jpg "Fathym Dashboard")
   - From inside your Particle Photon part, click the plus "+" button to get to the catalog of addable parts
-  - Try a Historc Value part
+  - Try an Historic Value part
     - Fill out the "Property Name" field with one of the attributes you're sending from your Photon (the attribute name must be an exact, case-sensitive match). Leave this field blank to create a generic graph with dropdown menu of the attributes you're sending so you can switch the attribute on the fly.   
 4. **Create a Fathym Notification**         
 ![Notification Rule](https://40.media.tumblr.com/1a61ec7a1eb745816795d509af0f044f/tumblr_o58dv5IR7S1qcz8h1o6_1280.jpg "Notification Rule")
@@ -51,4 +55,4 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
     - Ensure that the property name you use is an exact match to one you're sending from your Photon
   - Save the Check part and then Enter into the Check part you just created
   - Click the plus "+" button to get to the catalog of addable parts
-  - Add an "Email Response" for email or "Twillio Respoonse" for sms and configure as desired
+  - Add an "Email Response" and configure with your message and desired send frequency
