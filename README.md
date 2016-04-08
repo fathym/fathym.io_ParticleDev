@@ -17,7 +17,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
 ![Particle Icons](http://community.fathym.com/Files/Storage/18dc2dab-fd6e-4754-89ba-28e6611c1dae "Particle Icons")
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 6. **Create a new Photon Part in your Fathym Homespace**
-![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
+  ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
   - Create an  account at [community.fathym.com](http.//community.fathym.com) if you haven't already
   - From your homespace, click the plus "+" button to get to the catalog of addable parts
   - Choose the Particle Photon part
