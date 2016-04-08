@@ -1,6 +1,7 @@
 # fathym.io_ParticleDev
 Download the fathym.io library folder to develop for Fathym on the Particle Photon
-## About [![Fathym logo](http://fathym.com/wp-content/uploads/2015/11/Fathym-Logo_Registered_sm-01-e1447723628628.png "Fathym Logo")](http://fathym.com)
+## About 
+[![Fathym logo](http://fathym.com/wp-content/uploads/2015/11/Fathym-Logo_Registered_sm-01-e1447723628628.png "Fathym Logo")](http://fathym.com)
 
 [Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. Now with the fathym.io library native to Particle, it's incredibly easy to create dashboards and notifications, and even control your Photon from your own Fathym app! 
 
