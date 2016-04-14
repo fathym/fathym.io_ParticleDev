@@ -9,7 +9,7 @@ Download the fathym.io library folder to develop for Fathym on the Particle Phot
 
 ## Getting up and running
 
-1. **Download the [Fathym.io (fix link)](http://fathym.io) zip folder from this repo and unzip**
+1. **Download the [Fathym.io](https://github.com/fathym/fathym.io_ParticleDev/blob/master/fathym.io.zip) zip folder from this repo and unzip**
 2. **Open the Particle Dev Desktop app and add the Fathym.io folder**
 ![Particle Dev](https://40.media.tumblr.com/85a6b84ac6a20005769c38cf79ea9c55/tumblr_o58dv5IR7S1qcz8h1o1_1280.jpg "Particle Dev")
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
