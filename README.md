@@ -71,7 +71,6 @@ Download the [fathym.io library folder](https://github.com/fathym/fathym.io_Part
 4. Once you've given a user permission to work with your part, you'll need to share the part's url with them directly or place your part in a space that they already have access to, like the Community Space for example.
 
 ## Share your project with the Fathym community                 
-![Community Space](http://community.fathym.com/Catalog/Image/67e28c78-af2e-4e11-9c65-52ba26e6a144?maxwidth=230 "Community Space")
 
 1. From inside your Fathym Home Space, find and enter the "Community Space" (tree icon) 
 2. Inside the Community Space,  click the plus "+" button to get to the catalog of addable parts
