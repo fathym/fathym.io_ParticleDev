@@ -85,6 +85,6 @@ Download the [fathym.io library folder](https://github.com/fathym/fathym.io_Part
   Visit the [fathym.io_Photon_Plant_Monitor Repository](https://github.com/fathym/fathym.io_Photon_Plant_Monitor) for more info.
 3. Photon Door Sensor
   Monitor whether your door is opened or closed and get notifications of any changes using a [Magnetic Door Switch Sensor](https://www.sparkfun.com/products/13247)
-  (repository coming soon)
+  Visit the [fathym.io_Photon_DoorSensor Repository](https://github.com/fathym/fathym.io_Photon_DoorSensor/tree/master) for more info.
 
   
