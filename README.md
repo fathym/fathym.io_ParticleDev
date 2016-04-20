@@ -78,14 +78,20 @@ Download the [fathym.io library folder](https://github.com/fathym/fathym.io_Part
 4. Search the "Existing Catalog" for your Particle Photon Device and Add!
 
 ## Custom Internet of Things Projects
-1. Photon Weather Station
-  Create a Weather Station using a [Sparkfun Photon Weather Shield](https://www.sparkfun.com/products/13630), a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) (optional) and Fathym. 
+**1. Photon Weather Station**
+  - Create a Weather Station using a [Sparkfun Photon Weather Shield](https://www.sparkfun.com/products/13630), a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) (optional) and Fathym. 
   Visit the [fathym.io_Sparkfun_Photon_WeatherShield Repository](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield) for more info.
-2. Photon Plant Monitor
-  Monitor your plants' health with a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) and a [Temperature and Humidity Sensor](https://www.sparkfun.com/products/10167?gclid=CLqS-YDTkcwCFQiqaQodCMsK2Q).
+  
+**2. Photon Plant Monitor**
+  - Monitor your plants' health with a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) and a [Temperature and Humidity Sensor](https://www.sparkfun.com/products/10167?gclid=CLqS-YDTkcwCFQiqaQodCMsK2Q).
   Visit the [fathym.io_Photon_Plant_Monitor Repository](https://github.com/fathym/fathym.io_Photon_Plant_Monitor) for more info.
-3. Photon Door Sensor
-  Monitor whether your door is opened or closed and get notifications of any changes using a [Magnetic Door Switch Sensor](https://www.sparkfun.com/products/13247).
+  
+**3. Photon Door Sensor**
+  - Monitor whether your door is opened or closed and get notifications of any changes using a [Magnetic Door Switch Sensor](https://www.sparkfun.com/products/13247).
   Visit the [fathym.io_Photon_DoorSensor Repository](https://github.com/fathym/fathym.io_Photon_DoorSensor/tree/master) for more info.
+  
+**4. Photon Battery Power**
+  - Power your Photon with a [Lithium Ion Battery](https://www.sparkfun.com/products/8483) using the [SparkFun Battery Shield](https://www.sparkfun.com/products/13626). Monitor the battery voltage and charge via Fathym.
+  [fathym.io_Photon_BatteryShield Repository](https://github.com/fathym/fathym.io_Particle_BatteryShield)
 
   
