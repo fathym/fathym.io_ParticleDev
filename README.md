@@ -14,13 +14,13 @@ Download the [fathym.io library folder](https://github.com/fathym/fathym.io_Part
 ![Particle Dev](https://40.media.tumblr.com/85a6b84ac6a20005769c38cf79ea9c55/tumblr_o58dv5IR7S1qcz8h1o1_1280.jpg "Particle Dev")
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
   - Inside Particle Dev: File -> Add Project Folder -> Find the fathym.io folder
-  - For more about working with your Photon, start with the tutorials in the [Particle Guide](https://docs.particle.io/guide/getting-started/intro/photon/)
+  - Take "ownership" of your Photon using the [Particle Photon app](https://itunes.apple.com/us/app/particle-build-photon-electron/id991459054?mt=8). For more about working with your Photon, start with the tutorials in the [Particle Guide](https://docs.particle.io/guide/getting-started/intro/photon/)
 5. **Select your device, save, compile, flash**                                       
     ![Particle Icons](http://community.fathym.com/Files/Storage/18dc2dab-fd6e-4754-89ba-28e6611c1dae "Particle Icons")
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 6. **Create a new Photon Part in your Fathym Home Space**
   ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
-  - Create an  account at [community.fathym.com](http.//community.fathym.com) if you haven't already
+  - Create an  account at [community.fathym.com](http;//community.fathym.com) if you haven't already
   - From your Home Space, click the plus "+" button to get to the catalog of addable parts
   - Choose the Particle Photon part
   - Add your Photon deviceID, which you can find on your [Particle Dashboard](https://dashboard.particle.io/user/devices)
@@ -88,7 +88,7 @@ Download the [fathym.io library folder](https://github.com/fathym/fathym.io_Part
   
 **3. Photon Door Sensor**
   - Monitor whether your door is opened or closed and get notifications of any changes using a [Magnetic Door Switch Sensor](https://www.sparkfun.com/products/13247).
-  Visit the [fathym.io_Photon_DoorSensor Repository](https://github.com/fathym/fathym.io_Photon_DoorSensor/tree/master) for more info.
+  Visit the [fathym.io_Photon_DoorSensor Repository](https://github.com/fathym/fathym.io_Photon_DoorSensor) for more info.
   
 **4. Photon Battery Power**
   - Power your Photon with a [Lithium Ion Battery](https://www.sparkfun.com/products/8483) using the [SparkFun Battery Shield](https://www.sparkfun.com/products/13626). Monitor the battery voltage and charge via Fathym.
