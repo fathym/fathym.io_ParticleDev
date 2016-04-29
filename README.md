@@ -20,7 +20,7 @@ Download the [fathym.io library folder](https://github.com/fathym/fathym.io_Part
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 6. **Create a new Photon Part in your Fathym Home Space**
   ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
-  - Create an  account at [community.fathym.com](http;//community.fathym.com) if you haven't already
+  - Create an  account at [community.fathym.com](http://community.fathym.com) if you haven't already
   - From your Home Space, click the plus "+" button to get to the catalog of addable parts
   - Choose the Particle Photon part
   - Add your Photon deviceID, which you can find on your [Particle Dashboard](https://dashboard.particle.io/user/devices)
